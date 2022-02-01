@@ -14,9 +14,9 @@ In this version there is the ability for the user to:
         
         
 There is also the ability for an admin to:
+
         -Login with their account.
-        -Inspect and accept/deny all the recent applications
-        
+        -Inspect and accept/deny all the recent applications.
         
 The site is using PHP to connect to the database and dynamically produce parts of pages, i.e. personal information, using a SESSION (and not cookies).
           
