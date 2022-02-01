@@ -1,7 +1,7 @@
 # doatap.gr-web-project-2021-2022
 This project was developed using HTML5, CSS, Javascript, PHP and MySQL with the help of XAMPP
 
-To run this you will need to have XAMPP installed (see:https://www.apachefriends.org/index.html) and import the .sql file to use the database.
+To run this you will need to have XAMPP installed (see: https://www.apachefriends.org/index.html) and import the .sql file to use the database.
 
 This web project recreates the already existing https://www.doatap.gr/ making it simpler and easier for the user to understand and use.
 In this version there is the ability for the user to:
